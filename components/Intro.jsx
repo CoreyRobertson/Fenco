@@ -11,9 +11,9 @@ const Intro = () => {
                             Who We Are.
                         </h3>
                         <h1 className='poppins-bold section_heading'>
-                            Your trusted partner in automated gate and modular wall installation.
+                            Your trusted partner in automated gates, modular walls and commercial fencing solutions.
                         </h1>
-                        <p className='lato-regular'>Welcome to Fenco, your trusted partner in providing top-quality fencing solutions across the Melbourne metro and peninsula areas. As an accredited trade partner with ModularWalls®, we specialize in a diverse range of services including premium modular wall installations, state-of-the-art automated gates, and robust commercial and residential fencing.
+                        <p className='lato-regular'>Welcome to Fenco, we provide top-quality fencing and automation solutions across the Melbourne metro and peninsula areas. As an accredited trade partner with ModularWalls®, we specialize in a diverse range of services including premium modular wall installations, state-of-the-art automated gates, and robust commercial and residential fencing.
                             <br />
                             <br />
                             Whether enhancing the privacy and aesthetic appeal of your home with our stylish domestic fences or securing your business premises with our durable palisade and speartop fencing options, Fenco is committed to delivering exceptional craftsmanship and unparalleled service.
