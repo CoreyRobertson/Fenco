@@ -48,7 +48,7 @@ const ServicesMain = () => {
                                 <div className='service_card-text'>
                                     <h3 className='poppins-semibold'>{service.subheading}</h3>
                                     <p className='lato-regular'>{service.introText}</p>
-                                    <Link className='poppins-semibold' href={service.link}>Learn More <BsArrowDownLeftSquare /></Link>
+                                    <Link className='poppins-semibold' href={service.link}>Explore More <BsArrowDownLeftSquare /></Link>
                                 </div>
                             </div>
                         ))}

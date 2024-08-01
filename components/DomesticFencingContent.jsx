@@ -3,6 +3,7 @@ import { RiNumber1, RiNumber2, RiNumber3, RiNumber4, RiNumber5, RiNumber6 } from
 
 const DomesticFencingContent = () => {
     return (
+
         <section className='page_content-container'>
             <div className='centered_container'>
                 <h3 className='poppins-semibold section_subheading'>

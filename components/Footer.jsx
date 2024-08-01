@@ -31,12 +31,12 @@ const Footer = () => {
                             <a className='lato-regular'>Melbourne, Metropolitan.</a>
                         </div>
                         <div className='footer_column'>
-                            <Link href='/'>
+                            <Link href='https://www.instagram.com/fencomelbourne?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==' aria-label='Our Instragram'>
                                 <div className='footer_icon-container'>
                                     <FaInstagram style={{ color: '#FFFFFF', fontSize: '30' }} />
                                 </div>
                             </Link>
-                            <Link href='/'>
+                            <Link href='https://www.facebook.com/p/fencomelbourne-100064802117475/?_rdr' aria-label='Our Facebook'>
                                 <div className='footer_icon-container'>
                                     <FaFacebookF style={{ color: '#6CA4DB', fontSize: '30' }} />
                                 </div>
