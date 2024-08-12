@@ -31,7 +31,7 @@ const Hero = () => {
                     <p className='lato-regular'>Transforming properties with top-notch fencing and gate solutions. Explore our range of modular walls, automated gates, and secure fencing options.</p>
                 </div>
                 <div className='hero_button-container'>
-                    <a href='mailto:example@example.com' className='poppins-semibold button_blue'>REQUEST A QUOTE</a>
+                    <a href='mailto:fencomelbourne@gmail.com' className='poppins-semibold button_blue'>REQUEST A QUOTE</a>
                     <a className='poppins-semibold button_white' href="tel:+61423938595">GIVE US A CALL</a>
                 </div>
             </div>

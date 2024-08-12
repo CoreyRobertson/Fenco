@@ -27,7 +27,7 @@ const Footer = () => {
                             <p className='poppins-semibold'>Get In Touch.</p>
                             <p className='lato-regular'>Joel Eason.</p>
                             <a className='lato-regular' href="tel:+61423938595">0423 938 595</a>
-                            <a className='lato-regular'>EMAIL.</a>
+                            <a className='lato-regular'>fencomelbourne@gmail.com</a>
                             <a className='lato-regular'>Melbourne, Metropolitan.</a>
                         </div>
                         <div className='footer_column'>

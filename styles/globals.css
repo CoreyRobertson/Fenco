@@ -226,7 +226,7 @@ body {
   padding: .5rem;
   cursor: pointer;
   backdrop-filter: blur;
-
+  text-decoration: none;
   backdrop-filter: blur(10px);
   /* Background blur effect */
 }
@@ -434,7 +434,7 @@ body {
 
 .gallery_grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 10px;
 
   /* Adjust the gap between the images as needed */
@@ -939,10 +939,10 @@ footer p {
 
   }
 
+
   .intro_image-float {
 
-    left: -1rem;
-
+    display: none;
   }
 
   .approach_section {

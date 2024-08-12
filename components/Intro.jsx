@@ -18,10 +18,10 @@ const Intro = () => {
                             <br />
                             Whether enhancing the privacy and aesthetic appeal of your home with our stylish domestic fences or securing your business premises with our durable palisade and speartop fencing options, Fenco is committed to delivering exceptional craftsmanship and unparalleled service.
                         </p>
-                        <a className='poppins-semibold button_blue'>REQUEST A QUOTE</a>
+                        <a className='poppins-semibold button_blue' href='#quote'>REQUEST A QUOTE</a>
                     </div>
                     <div className='intro_right'>
-                        <Image src='/images/Fence3.jpg' layout='fill' alt='fence3' />
+                        <Image className='intro_image' src='/images/Fence3.jpg' layout='fill' alt='fence3' quality={100} />
                         <Image className='intro_image-float' src='/images/image5.png' height={400} width={300} alt='fence4' objectFit='contain' quality={100} />
                     </div>
                 </div>

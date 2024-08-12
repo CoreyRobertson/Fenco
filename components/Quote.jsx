@@ -14,7 +14,7 @@ const Quote = () => {
                         <h1 className='poppins-bold section_heading'>
                             Tell us about your project.
                         </h1>
-                        <form className="contact_form">
+                        <form className="contact_form" action="https://formsubmit.co/fencomelbourne@gmail.com" method="POST">
                             <div className="form_group">
                                 <label className='poppins-semibold' htmlFor="name">Your Name:<span style={{ color: '#FF0000' }}>*</span></label>
                                 <input type="text" id="name" name="name" required placeholder='First Name | Last Name' />
